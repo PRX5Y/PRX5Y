@@ -1,12 +1,12 @@
 
     ██████╗ ██████╗ ██╗  ██╗███████╗██╗   ██╗                                                                    *       +
-    ██╔══██╗██╔══██╗╚██╗██╔╝██╔════╝╚██╗ ██╔╝                                                               '                  |
-    ██████╔╝██████╔╝ ╚███╔╝ ███████╗ ╚████╔╝                                                            ()    .-.,="``"=.    - o -
-    ██╔═══╝ ██╔══██╗ ██╔██╗ ╚════██║  ╚██╔╝                                                                   '=/_       \     |
+    ██╔══██╗██╔══██╗╚██╗██╔╝██╔════╝╚██╗ ██╔╝                                                               '                 |
+    ██████╔╝██████╔╝ ╚███╔╝ ███████╗ ╚████╔╝                                                            ()    .-.,="``"=.   - o -
+    ██╔═══╝ ██╔══██╗ ██╔██╗ ╚════██║  ╚██╔╝                                                                   '=/_       \    |
     ██║     ██║  ██║██╔╝ ██╗███████║   ██║                                                                 *   |  '=._    |
     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝                                                                      \     `=./`,  
     Hi I am Lucy a self taught hacker/pentester with an interest in satellite hacking/tapping                .   '=.__.=' `='  
-    CVE's i have discovered:                                                                         +                         +
+    CVE's i have discovered:                                                                         +                        +
     - CVE-2024-46310                                                                                      O      *        '  
     im also an avid player of FiveM and i play on some of the most recogniseable 
     FiveM servers like Nopixel and PurpleRP
