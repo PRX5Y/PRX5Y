@@ -9,7 +9,7 @@
     CVE's i have discovered:                                                                         +                        +
     - CVE-2024-46310                                                                                      O      *        '  
     im also an avid player of FiveM and i play on some of the most recogniseable 
-    FiveM servers like Nopixel and PurpleRP
+    FiveM servers like Nopixel and PurpleRP, im a talented dev but i keep putting my self down
 <!--
 **PRX5Y/PRX5Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
